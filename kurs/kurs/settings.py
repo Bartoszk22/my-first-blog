@@ -25,7 +25,7 @@ SECRET_KEY = 'omv^0)e2dr(=ih7j6ho8q0iqck_r%v5d*8k&7kg)mz*6w-am+&'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywhere.com','http://bartoszk.pythonanywhere.com','bartoszk.pythonanywhere.com']
 
 
 # Application definition
